@@ -15,4 +15,5 @@ Project&lt;:miserable life part 1.
 
        ** Time efficiency **
 
+UPDATE: The rest of the progress are written in DownWeGo branches.
   
